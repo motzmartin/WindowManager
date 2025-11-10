@@ -18,5 +18,13 @@
     <ClCompile Include="Src\Source.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Src\Engine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Include\Engine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
